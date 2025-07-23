@@ -1,0 +1,201 @@
+account_name,tier_label,gap_days,sales_vs_baseline_%,prob_decline,rep_message
+FINE LINE METAL FABRICATORS,Black,547.0,-82.5166825548141,0.0525088756526879,Black tier customer • Last order 547d (typ 31d) • Sales ⬇︎83% vs. norm
+SCOBERT INC,Black,578.0,3.925004380585251,0.0455035073302197,Black tier customer • Last order 578d (typ 31d) • Sales ⬆︎4% vs. norm
+SCANDINAVIAN FABRICATION LLC,Black,457.0,-87.442502299908,0.0453387111516581,Black tier customer • Last order 457d (typ 61d) • Sales ⬇︎87% vs. norm
+NORTH TEXAS FAB LLC,Black,426.0,-84.0858623242043,0.1023403552477899,Black tier customer • Last order 426d (typ 31d) • Sales ⬇︎84% vs. norm
+"31 THREE DESIGN & METALWORK, L",Black,426.0,-82.992,0.1027226108168731,Black tier customer • Last order 426d (typ 31d) • Sales ⬇︎83% vs. norm
+EICA INDUSTRIES INC dab EICA TANKHEADS,Black,457.0,25.152306353350752,0.0900633914760353,Black tier customer • Last order 457d (typ 31d) • Sales ⬆︎25% vs. norm
+STEWART STAINLESS FABRICATING,Black,456.0,31.036931818181813,0.0660914267622553,Black tier customer • Last order 456d (typ 46d) • Sales ⬆︎31% vs. norm
+HIGHWOOD MACHINE TOOL LLC,Black,488.0,-47.64667956157318,0.0050351728261422,Black tier customer • Last order 488d (typ 151d) • Sales ⬇︎48% vs. norm
+MIDWEST FAB AND CONSTRUCTION I,Black,334.0,-80.4850269160927,0.1667839714673699,Black tier customer • Last order 334d (typ 31d) • Sales ⬇︎80% vs. norm
+"SULLIVAN TOOL & MFG, INC.",Black,639.0,-52.65384615384615,4.2562669124986766e-05,Black tier customer • Last order 639d (typ 319d) • Sales ⬇︎53% vs. norm
+ULRICH HORSE BARNS LLC,Black,397.0,90.50813348985409,0.1252004196248227,Black tier customer • Last order 397d (typ 31d) • Sales ⬆︎91% vs. norm
+HVAC MANUFACTURING INC,Black,304.0,-90.4814609850581,0.1919547884776584,Black tier customer • Last order 304d (typ 31d) • Sales ⬇︎90% vs. norm
+H H DISTRIBUTORS,Black,580.0,-72.28967290387087,0.000118698463921,Black tier customer • Last order 580d (typ 290d) • Sales ⬇︎72% vs. norm
+COTTERMAN COMPANY,Black,365.0,-23.84776536312848,0.149951054503206,Black tier customer • Last order 365d (typ 29d) • Sales ⬇︎24% vs. norm
+MID CITIES MFG CO,Black,304.0,-78.11392105885133,0.1917545273261372,Black tier customer • Last order 304d (typ 31d) • Sales ⬇︎78% vs. norm
+PCI LLC Pottorff,Black,366.0,-14.155357978474491,0.1432289856690395,Black tier customer • Last order 366d (typ 31d) • Sales ⬇︎14% vs. norm
+ZURN INDUSTRIES,Black,304.0,-75.07104450759512,0.1954844928098082,Black tier customer • Last order 304d (typ 31d) • Sales ⬇︎75% vs. norm
+ATLAS MACHINE & WELDING SERVIC,Black,304.0,-73.2276897414512,0.1921657559259823,Black tier customer • Last order 304d (typ 31d) • Sales ⬇︎73% vs. norm
+"MODULE TRUCK SYSTEMS, INC",Black,365.0,17.207090358841338,0.1476055354374472,Black tier customer • Last order 365d (typ 30d) • Sales ⬆︎17% vs. norm
+CAPROCK METAL WORKS INC,Black,365.0,12.473423104181425,0.1453677913280945,Black tier customer • Last order 365d (typ 31d) • Sales ⬆︎12% vs. norm
+RENAISSANCE MACHINE LP,Black,639.0,23.883770375620127,4.3949065005891616e-05,Black tier customer • Last order 639d (typ 319d) • Sales ⬆︎24% vs. norm
+W W FIBERGLASS TANK CO,Black,304.0,-36.917906865098416,0.1945159153204889,Black tier customer • Last order 304d (typ 31d) • Sales ⬇︎37% vs. norm
+RELIABLE DESIGN SERVICES LP,Black,274.0,-64.54592098512057,0.2220264542712332,Black tier customer • Last order 274d (typ 31d) • Sales ⬇︎65% vs. norm
+ATRON GROUP LLC,Black,336.0,50.1203990368077,0.1741221643365873,Black tier customer • Last order 336d (typ 30d) • Sales ⬆︎50% vs. norm
+C & L MACHINE WORKS,Black,335.0,21.816283924843425,0.1701114930849971,Black tier customer • Last order 335d (typ 31d) • Sales ⬆︎22% vs. norm
+EPIC PRODUCTS INTERNATIONAL CO,Black,273.0,-73.3427114471602,0.1684381041139992,Black tier customer • Last order 273d (typ 46d) • Sales ⬇︎73% vs. norm
+FABRITRON COMPANY,Black,548.0,-8.849976336961662,0.0002126368762701,Black tier customer • Last order 548d (typ 274d) • Sales ⬇︎9% vs. norm
+FABRICON INC,Black,306.0,139.44201312910286,0.2111730770159855,Black tier customer • Last order 306d (typ 29d) • Sales ⬆︎139% vs. norm
+UNIVERSAL STAINLESS SOULTIONS,Black,304.0,-90.73243647234679,0.0291982297865012,Black tier customer • Last order 304d (typ 121d) • Sales ⬇︎91% vs. norm
+THOMPSON PIPE GROUP - PRESSURE,Black,304.0,104.13276035475909,0.2030769605894743,Black tier customer • Last order 304d (typ 31d) • Sales ⬆︎104% vs. norm
+QUALITY IRONWORKS,Black,275.0,-26.335877862595424,0.2276794121887568,Black tier customer • Last order 275d (typ 30d) • Sales ⬇︎26% vs. norm
+RADFORD MFG CO INC,Black,366.0,-84.13950591654556,0.0049409570396375,Black tier customer • Last order 366d (typ 183d) • Sales ⬇︎84% vs. norm
+CONTINENTAL ELECTRONICS CORPOR,Black,212.0,-84.36893742032039,0.2916554631109962,Black tier customer • Last order 212d (typ 31d) • Sales ⬇︎84% vs. norm
+"BLACK IRON PRODUCTS, LLC",Black,243.0,-52.492362427008,0.2569655470185006,Black tier customer • Last order 243d (typ 31d) • Sales ⬇︎52% vs. norm
+SOUTHWEST PRECISION METALFAB,Black,457.0,-69.05176362803482,0.0003581049161523,Black tier customer • Last order 457d (typ 274d) • Sales ⬇︎69% vs. norm
+HESSE INDUSTRIAL SALES DBA VAN,Black,184.0,-97.08542358510563,0.3270525407494095,Black tier customer • Last order 184d (typ 31d) • Sales ⬇︎97% vs. norm
+SHACKELFORD EQUIPMENT,Black,274.0,50.0,0.2421073859257828,Black tier customer • Last order 274d (typ 30d) • Sales ⬆︎50% vs. norm
+PUBLIC STEEL INC,Black,212.0,-76.25,0.2258439581193215,Black tier customer • Last order 212d (typ 46d) • Sales ⬇︎76% vs. norm
+FIRST QUALITY FABRICATORS,Black,273.0,87.02428416092786,0.2343346940914876,Black tier customer • Last order 273d (typ 31d) • Sales ⬆︎87% vs. norm
+WELASCO INC,Black,304.0,-52.634695085849614,0.0293822807895342,Black tier customer • Last order 304d (typ 121d) • Sales ⬇︎53% vs. norm
+"SIKA INDUSTRIAL SALES, LLC",Black,243.0,-47.50757367116497,0.1481066571414361,Black tier customer • Last order 243d (typ 61d) • Sales ⬇︎48% vs. norm
+M & H METAL SPECIALTIES INC,Black,183.0,-73.16377351191915,0.3293533599992437,Black tier customer • Last order 183d (typ 31d) • Sales ⬇︎73% vs. norm
+HYDRAULICS INC,Black,182.0,-73.04469273743017,0.3307338656367143,Black tier customer • Last order 182d (typ 31d) • Sales ⬇︎73% vs. norm
+MEDIA VALVE COMPANY INC,Black,336.0,-51.71974522292994,0.0084184149479158,Black tier customer • Last order 336d (typ 168d) • Sales ⬇︎52% vs. norm
+CANNON & CANNON IND MACHINING,Black,304.0,-61.83261183261184,0.0145772882599017,Black tier customer • Last order 304d (typ 152d) • Sales ⬇︎62% vs. norm
+SUPERIOR MACHINING & FABRICATI,Black,215.0,-80.23960037133637,0.0904820116562035,Black tier customer • Last order 215d (typ 92d) • Sales ⬇︎80% vs. norm
+VULCAM DFW LLC,Black,304.0,-48.26039894850781,0.0146874277055614,Black tier customer • Last order 304d (typ 152d) • Sales ⬇︎48% vs. norm
+GRANUTECH-SATURN SYSTEMS CORP OF AMERICA,Black,182.0,-45.85968524783056,0.3328159372682677,Black tier customer • Last order 182d (typ 31d) • Sales ⬇︎46% vs. norm
+"PARAGON ROOFING, LLC",Black,151.0,-73.23153050094442,0.3730915767809976,Black tier customer • Last order 151d (typ 31d) • Sales ⬇︎73% vs. norm
+TOTAL METAL PRODUCTS INC,Black,243.0,-41.52528230516771,0.079355382152633,Black tier customer • Last order 243d (typ 92d) • Sales ⬇︎42% vs. norm
+COLLINS CUSTOM MANUFACTURING,Black,212.0,-7.062060531947411,0.297550212224128,Black tier customer • Last order 212d (typ 31d) • Sales ⬇︎7% vs. norm
+KINGSPAN LIGHT & AIR,Black,184.0,-62.52498939843703,0.1975738373098506,Black tier customer • Last order 184d (typ 61d) • Sales ⬇︎63% vs. norm
+"AIR TRACTOR, INC",Black,153.0,-61.160832964111655,0.3712619893940326,Black tier customer • Last order 153d (typ 31d) • Sales ⬇︎61% vs. norm
+"Expert Tool & Machine, Inc.",Black,214.0,-87.9615579160344,0.0476847188710082,Black tier customer • Last order 214d (typ 122d) • Sales ⬇︎88% vs. norm
+FORT WORTH TANK WORKS LLC,Black,151.0,-54.78912839737582,0.374250805455436,Black tier customer • Last order 151d (typ 31d) • Sales ⬇︎55% vs. norm
+STALLION MANUFACTURING,Black,122.0,-74.99457347514651,0.4151495937348716,Black tier customer • Last order 122d (typ 31d) • Sales ⬇︎75% vs. norm
+CASH SALES - DALLAS,Black,153.0,-71.24183006535948,0.2274331169142405,Black tier customer • Last order 153d (typ 61d) • Sales ⬇︎71% vs. norm
+LWF SERVICES LLC,Black,151.0,-71.52874825314434,0.2315506583717428,Black tier customer • Last order 151d (typ 61d) • Sales ⬇︎72% vs. norm
+COMPLETE RESTAURANT SERVS LTD,Black,153.0,-68.67942933788562,0.2308770586883249,Black tier customer • Last order 153d (typ 61d) • Sales ⬇︎69% vs. norm
+SOUTHERN BLEACHER COMPANY,Black,123.0,-79.51928395434203,0.3397811177912882,Black tier customer • Last order 123d (typ 45d) • Sales ⬇︎80% vs. norm
+NEO INDUSTRIES CORPORATION,Black,153.0,-29.648333486364887,0.3743149061634677,Black tier customer • Last order 153d (typ 31d) • Sales ⬇︎30% vs. norm
+"WELLWORX ENERGY SOLUTIONS, LLC",Black,182.0,-60.67560277212931,0.1090298695425656,Black tier customer • Last order 182d (typ 92d) • Sales ⬇︎61% vs. norm
+JCE TRAILERS LLC,Black,92.0,-86.53521585790276,0.4597132617549564,Black tier customer • Last order 92d (typ 31d) • Sales ⬇︎87% vs. norm
+MOFFITT WEST LLC,Black,90.0,-87.45350855442598,0.4740051822175473,Black tier customer • Last order 90d (typ 31d) • Sales ⬇︎87% vs. norm
+WESTERN SHEET METAL,Black,151.0,-54.78532184765651,0.2307268787835702,Black tier customer • Last order 151d (typ 61d) • Sales ⬇︎55% vs. norm
+"KGP GROUP, INC dba SpeQtrum Aerospace",Black,121.0,-82.69005847953217,0.2619878840305214,Black tier customer • Last order 121d (typ 61d) • Sales ⬇︎83% vs. norm
+HARTMANNS INCORPORATED,Black,92.0,-80.43942485645138,0.4605003852703877,Black tier customer • Last order 92d (typ 30d) • Sales ⬇︎80% vs. norm
+ALLIANCE WELDING AND METAL FABRICATION,Black,243.0,-20.01254705144291,0.0418940964228505,Black tier customer • Last order 243d (typ 121d) • Sales ⬇︎20% vs. norm
+TAYLOR PRESS PRODUCTS CO,Black,92.0,-80.45818172597842,0.4595606426484011,Black tier customer • Last order 92d (typ 31d) • Sales ⬇︎80% vs. norm
+ED RAGSDALE SHEET METAL INC,Black,120.0,-80.0288046087374,0.2634701279613654,Black tier customer • Last order 120d (typ 61d) • Sales ⬇︎80% vs. norm
+JANECEK PERFORMANCE & EQUIPMEN,Black,121.0,-72.60938138909982,0.2636905496975603,Black tier customer • Last order 121d (typ 61d) • Sales ⬇︎73% vs. norm
+TRINITY AIR CONDITIONING INC,Black,151.0,-69.65654271927335,0.1303066267921343,Black tier customer • Last order 151d (typ 91d) • Sales ⬇︎70% vs. norm
+BIG STATE WELDING AND MACHINE,Black,89.0,-68.94904458598727,0.4629927280314461,Black tier customer • Last order 89d (typ 31d) • Sales ⬇︎69% vs. norm
+ALL-PRO THREADED PRODUCTS,Black,151.0,-36.69315758867998,0.2322494463437887,Black tier customer • Last order 151d (typ 61d) • Sales ⬇︎37% vs. norm
+SUBURBAN SHEET METAL INC,Black,90.0,-67.1801320339516,0.4619407156994193,Black tier customer • Last order 90d (typ 31d) • Sales ⬇︎67% vs. norm
+GATOR PUMP INC,Black,92.0,-64.20419808436927,0.4590680972569478,Black tier customer • Last order 92d (typ 31d) • Sales ⬇︎64% vs. norm
+BYFORD MACHINE & TOOL INC,Black,92.0,-63.74823042578678,0.4605178690395667,Black tier customer • Last order 92d (typ 31d) • Sales ⬇︎64% vs. norm
+KASPAR MACHINE DBA KOR MACHINE,Black,122.0,-94.08028899376566,0.1486198838967621,Black tier customer • Last order 122d (typ 92d) • Sales ⬇︎94% vs. norm
+W&W-AFCO STEEL LLC,Black,181.0,-33.24324324324325,0.1139001225301474,Black tier customer • Last order 181d (typ 90d) • Sales ⬇︎33% vs. norm
+A N BEWLEY FABRICATORS,Black,92.0,-61.87721589848852,0.459245579043869,Black tier customer • Last order 92d (typ 31d) • Sales ⬇︎62% vs. norm
+MCHONE METAL FABRICATORS INC,Black,61.0,-91.63730431292092,0.5038716589426849,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎92% vs. norm
+E H MIMS CO INC DBA MIMS STEEL,Black,123.0,-58.51938210434275,0.2595923201500457,Black tier customer • Last order 123d (typ 61d) • Sales ⬇︎59% vs. norm
+PEDCO SYSTEMS INC,Black,61.0,-90.00532197977648,0.5035430499647036,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎90% vs. norm
+GNP INC,Black,92.0,-73.95931679684146,0.3748705378823476,Black tier customer • Last order 92d (typ 46d) • Sales ⬇︎74% vs. norm
+SUMMIT METALS CORP,Black,92.0,-88.30968365847762,0.3008892070892521,Black tier customer • Last order 92d (typ 61d) • Sales ⬇︎88% vs. norm
+LONG INDUSTRIES INCORPORATED,Black,92.0,-54.86807156459857,0.4792402146544615,Black tier customer • Last order 92d (typ 30d) • Sales ⬇︎55% vs. norm
+C A BADGER COMPANY,Black,91.0,-71.31593392883877,0.3789865309203836,Black tier customer • Last order 91d (typ 45d) • Sales ⬇︎71% vs. norm
+BOWERS MACHINE,Black,92.0,-54.90190276092682,0.4604547541503339,Black tier customer • Last order 92d (typ 31d) • Sales ⬇︎55% vs. norm
+MPCK MACHINING,Black,122.0,-24.792908007557035,0.4187789210590709,Black tier customer • Last order 122d (typ 31d) • Sales ⬇︎25% vs. norm
+RIG TOOL PRODUCTS,Black,122.0,-54.66703662597114,0.2642274027095609,Black tier customer • Last order 122d (typ 61d) • Sales ⬇︎55% vs. norm
+DEAKIN ELECTRIC/DBA MILLTECH A,Black,31.0,-99.82101167315174,0.6344500075175286,Black tier customer • Last order 31d (typ 15d) • Sales ⬇︎100% vs. norm
+EKLUND'S INC,Black,62.0,-81.55552689281569,0.5021619929032121,Black tier customer • Last order 62d (typ 31d) • Sales ⬇︎82% vs. norm
+PEERLESS MFG CO,Black,61.0,-95.8242472045655,0.4206206649244486,Black tier customer • Last order 61d (typ 45d) • Sales ⬇︎96% vs. norm
+S & T STEEL MICHAEL A SCHULTE & STANLEY A,Black,61.0,-95.52845528455285,0.4191109663815299,Black tier customer • Last order 61d (typ 45d) • Sales ⬇︎96% vs. norm
+NEILL MECHANICAL TECHNOLOGY IN,Black,59.0,-81.42605633802818,0.5065490386884649,Black tier customer • Last order 59d (typ 31d) • Sales ⬇︎81% vs. norm
+"EXCEL GLASS SYSTEMS, LLC",Black,61.0,-78.75641623891741,0.5038616195897069,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎79% vs. norm
+"HOLLY FABRICATIONS, LLC",Black,61.0,-76.5543591524835,0.5040235178510589,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎77% vs. norm
+TRINITY RAIL #192,Black,59.0,-92.16324116516338,0.4278516695214368,Black tier customer • Last order 59d (typ 45d) • Sales ⬇︎92% vs. norm
+"DELTA T THERMAL SOLUTIONS, LLC A SHARP IRON GROUP COMPANY",Black,120.0,-76.42417547735522,0.153925502602011,Black tier customer • Last order 120d (typ 90d) • Sales ⬇︎76% vs. norm
+ENGINEERED PRODUCTS & SERVICES,Black,61.0,-75.41116203828525,0.5070018412197741,Black tier customer • Last order 61d (typ 30d) • Sales ⬇︎75% vs. norm
+JOE WHITE TANK CO,Black,61.0,-75.79286080957569,0.5113193252570676,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎76% vs. norm
+SOUTHWEST FLUID PRODUCTS INC,Black,61.0,-70.49763033175356,0.5077424139495705,Black tier customer • Last order 61d (typ 30d) • Sales ⬇︎70% vs. norm
+OMI CRANES,Black,59.0,-72.69274591720472,0.5073769671980237,Black tier customer • Last order 59d (typ 31d) • Sales ⬇︎73% vs. norm
+JAMES MFG,Black,61.0,-85.51319368230186,0.4179246898490836,Black tier customer • Last order 61d (typ 46d) • Sales ⬇︎86% vs. norm
+"BKP MANUFACTURING, LLC.",Black,30.0,-100.0,0.5475363483050487,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎100% vs. norm
+MAGEE MACHINE & MFG,Black,62.0,-83.878882798225,0.4168753754136223,Black tier customer • Last order 62d (typ 46d) • Sales ⬇︎84% vs. norm
+E M F CO INC,Black,92.0,-53.160098113346734,0.3775662415044836,Black tier customer • Last order 92d (typ 46d) • Sales ⬇︎53% vs. norm
+ACS MANUFACTURING INC,Black,30.0,-99.01911361364355,0.5829312383022124,Black tier customer • Last order 30d (typ 30d) • Sales ⬇︎99% vs. norm
+BANDY INC DBA TCD METALS FAB I,Black,120.0,-68.77773295683744,0.1559576711012285,Black tier customer • Last order 120d (typ 90d) • Sales ⬇︎69% vs. norm
+BUFERD CO INC DBA UNITY MFG,Black,61.0,-68.43037471041605,0.5102598217264629,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎68% vs. norm
+KOERBER SUPPLY CHAIN LLC DBA SIEMENS PARCEL LOGISTICS L,Black,31.0,-97.69921363889573,0.5494456724281125,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎98% vs. norm
+OWEN OIL TOOLS-DIV CORE LABORA,Black,30.0,-97.04339653792911,0.5535453877969906,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎97% vs. norm
+CUSTOM MFG CO,Black,31.0,-96.33960345704118,0.550195485734744,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎96% vs. norm
+WASSERSTROM MARKETING CORP,Black,30.0,-81.22308354866495,0.638103782273377,Black tier customer • Last order 30d (typ 15d) • Sales ⬇︎81% vs. norm
+"JONES-BELL, LLC dba ECS ENVIROMENTAL SOLUTIONS",Black,31.0,-80.58432524346885,0.6343177818502319,Black tier customer • Last order 31d (typ 15d) • Sales ⬇︎81% vs. norm
+AL3 INC,Black,61.0,-65.95897804965816,0.5056497627905817,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎66% vs. norm
+MAXIMUM INDUSTRIES INC,Black,59.0,-67.59611214571801,0.5083271623027804,Black tier customer • Last order 59d (typ 31d) • Sales ⬇︎68% vs. norm
+"13 MFG, INC.",Black,31.0,-95.53812423022161,0.561466849854704,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎96% vs. norm
+MICRON APPLIED TECHNOLOGIES IN,Black,31.0,-94.33357091945831,0.5523597602054046,Black tier customer • Last order 31d (typ 30d) • Sales ⬇︎94% vs. norm
+ANTENNA PRODUCTS CORP,Black,31.0,-94.80254777070064,0.5476690537602587,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎95% vs. norm
+"BCS SWITCHGEAR, INC.",Black,31.0,-94.61047178974012,0.5519671174753548,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎95% vs. norm
+TECO METAL PRODUCTS,Black,28.0,-94.51715325640826,0.5544055061521691,Black tier customer • Last order 28d (typ 31d) • Sales ⬇︎95% vs. norm
+DAVIS SIGNS & NEON,Black,31.0,-78.73818251977619,0.634502809014775,Black tier customer • Last order 31d (typ 15d) • Sales ⬇︎79% vs. norm
+HYDE PLASTICS SOLUTIONS CORPOR,Black,31.0,-94.00187975278402,0.3780468173554843,Black tier customer • Last order 31d (typ 61d) • Sales ⬇︎94% vs. norm
+THERMACOR PROCESS INC,Black,28.0,-93.78442171518489,0.5612049362621556,Black tier customer • Last order 28d (typ 29d) • Sales ⬇︎94% vs. norm
+MEYER ENTERPRISES,Black,28.0,-93.70736698499317,0.5518963664454862,Black tier customer • Last order 28d (typ 31d) • Sales ⬇︎94% vs. norm
+"CACTUS CANYON QUARRIES, INC.",Black,31.0,-77.28852838933952,0.6347955369006494,Black tier customer • Last order 31d (typ 15d) • Sales ⬇︎77% vs. norm
+M & F GAUGE & SPECIALTY CO INC,Black,31.0,-92.42671009771986,0.5472094765823143,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎92% vs. norm
+A+ FABRICATION,Black,59.0,-64.09106201637323,0.5086601973615816,Black tier customer • Last order 59d (typ 31d) • Sales ⬇︎64% vs. norm
+DUCT WORKS,Black,31.0,-91.68088737201366,0.5489434099980157,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎92% vs. norm
+ISC Manufacturing,Black,31.0,-90.99740100599844,0.5593765309019937,Black tier customer • Last order 31d (typ 30d) • Sales ⬇︎91% vs. norm
+MCQUEARY INDUSTRIES INC.,Black,121.0,48.908678191024975,0.4335316111491751,Black tier customer • Last order 121d (typ 30d) • Sales ⬆︎49% vs. norm
+TRANSLAND LLC,Black,31.0,-90.83029197080292,0.5487132331238392,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎91% vs. norm
+CIRCLE J FABRICATION INC,Black,30.0,-90.39683315413937,0.5512719107440749,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎90% vs. norm
+EXM USA INC.,Black,31.0,-90.04267139004067,0.553551058966235,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎90% vs. norm
+HAYES & STOLZ INDUSTRIAL MFG C,Black,30.0,-89.86190222513626,0.5510769119625657,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎90% vs. norm
+"O'BRIEN STEEL & SUPPLY, LLC",Black,31.0,-89.25931294390492,0.54755406728793,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎89% vs. norm
+VECTOR SYSTEMS INC,Black,30.0,-88.96467274842344,0.5537065294572878,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎89% vs. norm
+STEEL NOW,Black,30.0,-88.94436310395315,0.5533868030707587,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎89% vs. norm
+HEIL TRAILER INTL DBA KALYN SI,Black,31.0,-88.45004338464506,0.5481477757977855,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎88% vs. norm
+ACCURA SYSTEMS INC,Black,30.0,-88.32252085264133,0.5494003570067472,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎88% vs. norm
+ALCOM LLC,Black,30.0,-88.29796330181097,0.5643222766670734,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎88% vs. norm
+TRIPOINT FABRICATION SHEET MET & WELDING LLC,Black,122.0,-26.560424966799467,0.2653519017017949,Black tier customer • Last order 122d (typ 61d) • Sales ⬇︎27% vs. norm
+PRIME STAINLESS AND SUPPLY MIDWEST FAB AND CONSTRUCTION,Black,61.0,-57.39866870839714,0.5061546663568882,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎57% vs. norm
+AIR & HYDRAULIC EQUIPMENT,Black,92.0,-56.290228203627855,0.2991595188800166,Black tier customer • Last order 92d (typ 61d) • Sales ⬇︎56% vs. norm
+PERFORMANCE PULSATION CONTROL,Black,31.0,-86.48303779645356,0.5490551776832717,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎86% vs. norm
+MULTIPLE SYSTEMS INC,Black,61.0,-86.39133378469872,0.3369987254484595,Black tier customer • Last order 61d (typ 61d) • Sales ⬇︎86% vs. norm
+"J & S METAL FABRICATORS, LLC",Black,59.0,-72.26536069852112,0.4283346430004266,Black tier customer • Last order 59d (typ 45d) • Sales ⬇︎72% vs. norm
+KANNON MANUFACTURING INC,Black,59.0,-57.887651450250885,0.5087894116308868,Black tier customer • Last order 59d (typ 31d) • Sales ⬇︎58% vs. norm
+STATCO-DSI PROCESS SYSTEMS STATCO ENGINEERING & FABRICATO,Black,61.0,-55.81569115815691,0.5060894429130965,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎56% vs. norm
+G2 AUTOMATED TECHNOLOGIES,Black,31.0,-85.8099681278581,0.5487780534434533,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎86% vs. norm
+"B & W CABINET AND FIXTURE, LLC",Black,31.0,-85.62975486052409,0.5478728652684965,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎86% vs. norm
+Mathews Machine & Hydraulic Supply LLC,Black,59.0,-57.408171687990105,0.5092902762481218,Black tier customer • Last order 59d (typ 31d) • Sales ⬇︎57% vs. norm
+M&M BBQ COMPANY,Black,31.0,-83.84041331802526,0.5518524751542021,Black tier customer • Last order 31d (typ 30d) • Sales ⬇︎84% vs. norm
+CTS CROWN TEXAS,Black,30.0,-83.30101517052584,0.5519194714658965,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎83% vs. norm
+MARTIN SPROCKET & GEAR INC,Black,31.0,-83.1344850625179,0.5483486229071631,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎83% vs. norm
+"BODYGUARD PRODUCTS, LLC BODYGUARD BUMPERS",Black,30.0,-67.90254237288136,0.6395681498900753,Black tier customer • Last order 30d (typ 15d) • Sales ⬇︎68% vs. norm
+SUPREME CORP OF TEXAS DBA WABA,Black,31.0,-82.709754459288,0.5579136607087618,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎83% vs. norm
+"TONGRUN INTERNATIONAL, LLC",Black,30.0,-82.56736063003609,0.5639477345740792,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎83% vs. norm
+PHOENIX MFG,Black,60.0,-67.96459118368323,0.4240460223041548,Black tier customer • Last order 60d (typ 45d) • Sales ⬇︎68% vs. norm
+DATA MATIQUE,Black,31.0,-82.44915281903954,0.5497599245301074,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎82% vs. norm
+FEED YARD INDUSTRIAL SOLUTIONS,Black,31.0,-82.44150625146897,0.5568819664967297,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎82% vs. norm
+V B STAINLESS,Black,30.0,-82.36122736459588,0.5507496447037604,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎82% vs. norm
+GENERAL AVIATION INDUSTRIES IN,Black,31.0,-82.31860674797133,0.548487678290592,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎82% vs. norm
+SMITH TOOL & MFG,Black,61.0,-51.66666666666666,0.5091374816165338,Black tier customer • Last order 61d (typ 30d) • Sales ⬇︎52% vs. norm
+"AAA FABRICATION, LLC",Black,28.0,-81.3437789021272,0.5604296334655942,Black tier customer • Last order 28d (typ 31d) • Sales ⬇︎81% vs. norm
+PETOL GEARENCH,Black,61.0,-50.353837778987476,0.5067542368494794,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎50% vs. norm
+FINE-LINE PRODUCTION,Black,30.0,-80.00822143052892,0.5512574576350373,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎80% vs. norm
+"Tri Star Metals, Inc Tri Star Vet&Direct Animal Pro",Black,31.0,-79.89991793914625,0.5519871744360474,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎80% vs. norm
+ADVANCED LIGHTNING TECHNOLOGY,Black,31.0,-79.63624861616321,0.5488274208332378,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎80% vs. norm
+SUHM SPRING,Black,61.0,-49.49947312961012,0.5066094006126096,Black tier customer • Last order 61d (typ 31d) • Sales ⬇︎49% vs. norm
+"LOGIFI, LLC",Black,28.0,-79.39968851762707,0.5623373369275082,Black tier customer • Last order 28d (typ 29d) • Sales ⬇︎79% vs. norm
+"SPARTAN CNC, LLC",Black,31.0,-63.74314800313235,0.6355813516364124,Black tier customer • Last order 31d (typ 15d) • Sales ⬇︎64% vs. norm
+PAL-CON LLC,Black,31.0,-79.17943648047454,0.5494082428020738,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎79% vs. norm
+"HAMAR INDUSTRIES, INC",Black,31.0,-78.97574123989219,0.5500169320280777,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎79% vs. norm
+"COOPER SHEET METAL, INC.",Black,30.0,-78.28470095115266,0.553365260866143,Black tier customer • Last order 30d (typ 30d) • Sales ⬇︎78% vs. norm
+FLYNN BEC LP,Black,120.0,-48.290650655556924,0.1556306750445472,Black tier customer • Last order 120d (typ 90d) • Sales ⬇︎48% vs. norm
+LBW TURNER LLP,Black,30.0,-77.67892499802001,0.5515669853720042,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎78% vs. norm
+AMERICAN POLYMERS CORP. dba POLYCOAT PRODUCTS LLC,Black,31.0,-76.47468417387844,0.5546964814449525,Black tier customer • Last order 31d (typ 30d) • Sales ⬇︎76% vs. norm
+CENTRAL METAL SERVICE INC,Black,28.0,-76.79434734101896,0.5543720668761973,Black tier customer • Last order 28d (typ 31d) • Sales ⬇︎77% vs. norm
+LONGHORN LOCKER CO LLC,Black,31.0,-76.16747988658337,0.5532191346729799,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎76% vs. norm
+JOE TIPTON INC,Black,31.0,-75.61910377358491,0.5488558830434592,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎76% vs. norm
+BRINDLE PRODUCTS,Black,30.0,-75.61549944284423,0.5511067613852046,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎76% vs. norm
+SPECIAL PRODUCTS & MFG INC,Black,31.0,-75.61031905260728,0.5519302364084825,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎76% vs. norm
+"KEYSTONE AV, LLC",Black,31.0,-75.0,0.551643808426869,Black tier customer • Last order 31d (typ 30d) • Sales ⬇︎75% vs. norm
+VENTA TEK CORP dba TEXAS VENTILATION,Black,59.0,-45.85319351763585,0.5184823279793319,Black tier customer • Last order 59d (typ 29d) • Sales ⬇︎46% vs. norm
+CENTRAL TEXAS MACHINING,Black,28.0,-75.21383767344612,0.5533540726890525,Black tier customer • Last order 28d (typ 31d) • Sales ⬇︎75% vs. norm
+T & S MACHINES & TOOLS,Black,62.0,-44.17947913398179,0.5056235140565081,Black tier customer • Last order 62d (typ 31d) • Sales ⬇︎44% vs. norm
+MARATHONNORCO AEROSPACE INC,Black,30.0,-74.8185117967332,0.5506006872303225,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎75% vs. norm
+R-5 METAL FABRICATORS,Black,31.0,-74.40426952767525,0.5578383582150076,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎74% vs. norm
+MFPHD MANUFACTURING,Black,31.0,-74.32798123759696,0.5529486641768696,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎74% vs. norm
+R & R SHEET METAL & MACHINE SH,Black,31.0,-74.10213387552064,0.5561667445217432,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎74% vs. norm
+"SOUTHERN ELEVATOR & ELECTRIC S S.E.E.S., INC",Black,31.0,-73.79685760237535,0.5492471011581145,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎74% vs. norm
+UNIVERSAL FABRICATING USA,Black,30.0,-73.77763729225241,0.5514293497623688,Black tier customer • Last order 30d (typ 31d) • Sales ⬇︎74% vs. norm
+ROTOM INC,Black,122.0,-73.20492553457026,0.0814071955343875,Black tier customer • Last order 122d (typ 121d) • Sales ⬇︎73% vs. norm
+MIDWEST MACHINE LLC,Black,62.0,-73.18708104814138,0.3325169277193209,Black tier customer • Last order 62d (typ 62d) • Sales ⬇︎73% vs. norm
+M & M PRECISION METAL FAB,Black,31.0,-73.04003954522986,0.5526986827622582,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎73% vs. norm
+VICTORY CLIMATE SYSTEMS INC UNIQUE FAB,Black,28.0,-72.86086956521739,0.5573620154281049,Black tier customer • Last order 28d (typ 31d) • Sales ⬇︎73% vs. norm
+SAMPLES FAB & INDUSTRIAL SERVI,Black,31.0,-72.72187886279357,0.5498751292988967,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎73% vs. norm
+PRECISION MACHINE WORKS,Black,31.0,-72.53236664940445,0.5488433057294019,Black tier customer • Last order 31d (typ 31d) • Sales ⬇︎73% vs. norm
