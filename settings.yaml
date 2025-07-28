@@ -1,0 +1,42 @@
+# Ryerson Health-Monitor – adjusting thresholds
+
+# 00_clean_data.py
+raw_csv:          data/mock_invoices.csv     # original file you get each month
+clean_csv:        data/invoices_clean.csv    # output of Step 00
+
+# 01_monthly_health.py
+rolling_window:   6      # months for baseline averages
+max_med_gap:      40     # days for “regular” cadence
+min_invoices:     3
+min_active_months: 2
+
+# Tier thresholds (drop = % of baseline, gap = × median gap)
+tiers:
+  yellow_drop:    0.95
+  red_drop:       0.85
+  black_drop:     0.6
+  yellow_gap:     1.2
+  red_gap:        2.0
+  black_gap:      4.0
+  light_rise:     1.05
+  green_rise:     1.1
+  blue_rise:      1.25
+  light_gap:     -5
+  green_gap:     -10
+  blue_gap:      -20
+
+# 02_visual_data.py
+html_dashboard:   outputs/customer_dashboard.html
+top_n_first_view: 15      # first # shown in dropdown
+
+# 03_predictive_health.py
+label_window:     3       # look-ahead months
+prob_cut:         0.45    # threshold for “Likely-Decline”
+
+# 04_contact_alerts.py
+quiet_days:       45      # ≥ gap vs median
+sales_drop:      -50      # ≤ % vs baseline
+prob_limit:       0.60    # ≥ model probability
+max_rows_out:     200
+rep_csv:          outputs/rep_contact_list.csv
+rep_html:         outputs/rep_contact_list.html
