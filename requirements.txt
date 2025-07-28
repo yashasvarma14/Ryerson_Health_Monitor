@@ -3,3 +3,4 @@ numpy
 plotly
 scikit-learn
 pyyaml
+uploaded_file

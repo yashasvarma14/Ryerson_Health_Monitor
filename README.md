@@ -1,5 +1,9 @@
 # Ryerson Customer Health Monitor
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue)
+
 A data-driven dashboard built during my Sales Analytics internship at Ryerson Metals to track and visualize customer health trends — using Python, Plotly, and simple machine learning. Designed to be non-technical rep-friendly, actionable, and installable anywhere with just a CSV upload.
 
 ⚠️ This version uses mock data for privacy. The actual version was developed using real Ryerson invoice data and delivered to their internal team.

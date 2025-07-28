@@ -1,4 +1,4 @@
-# 03_predictive_health.py – light ML flagging customers at risk
+# 02_visual_data.py – Visualize customer health and tiers
 
 from pathlib import Path
 import pandas as pd
@@ -20,19 +20,21 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "outputs" / "customer_health_full.csv"
 PRED_CSV = ROOT / "outputs" / "customer_decline_probs.csv"
 FORECAST = ROOT / "outputs" / "sales_forecast_3m.csv"
+OUTDIR = ROOT / "outputs"; OUTDIR.mkdir(exist_ok=True)
+
 
 health = pd.read_csv(DATA, parse_dates=["month"])
 
 # 1) Paths & data
 DATA_FILE = Path("../outputs/customer_health_full.csv")
 OUT_DIR   = Path("../outputs"); OUT_DIR.mkdir(exist_ok=True)
-HTML_OUT  = OUT_DIR / "customer_dashboard.html"
+HTML_OUT  = OUTDIR / "customer_dashboard.html"
 
 
 # Every customer name, **sorted alphabetically**
 customers = sorted(health["account_name"].unique())
 
-#2) Figure factory – one mini‑dashboard per customer
+# 2 - Figure factory – one mini‑dashboard per customer
 def build_fig(df: pd.DataFrame) -> go.Figure:
     """Return a 3‑row Plotly figure for a single customer."""
     name = df["account_name"].iloc[0]
@@ -112,7 +114,7 @@ for cust in customers:
     fig = build_fig(health.query("account_name == @cust"))
     html_blocks[cust] = fig.to_html(full_html=False, include_plotlyjs=False)
 
-# 3) Write the final HTML file with a dropdown
+# 3 - Write the final HTML file with a dropdown
 with HTML_OUT.open("w", encoding="utf8") as f:
     f.write(
         """<!DOCTYPE html>
@@ -161,4 +163,4 @@ window.onload = () => {document.getElementById('cust').selectedIndex = 0; showCu
 def run(cfg=None):
     pass 
 
-print(f"Step 02 Done! HTML dashboard written to {HTML_OUT.resolve()}")
+print(f"Step 02 Done! HTML dashboard written.")

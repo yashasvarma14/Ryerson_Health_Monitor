@@ -1,4 +1,5 @@
-# 04_contact_alerts.py – Generate rep alert list (final version)
+# 04_contact_alerts.py – Generate rep alert list
+
 from pathlib import Path
 import pandas as pd
 import numpy as np

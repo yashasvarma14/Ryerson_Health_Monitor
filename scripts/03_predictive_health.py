@@ -1,4 +1,4 @@
-# 03_predictive_health.py – Flag customers at risk using basic ML
+# 03_predictive_health.py - Flag customers at risk using basic ML
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -63,8 +63,6 @@ def run(cfg=None):
         model.fit(X_train.iloc[train_idx], y_train.iloc[train_idx])
         preds = model.predict_proba(X_train.iloc[test_idx])[:, 1]
         scores.append(roc_auc_score(y_train.iloc[test_idx], preds))
-    print(f"Cross-validated AUC: {np.mean(scores):.3f}")
-
     # Final model fit
     model.fit(X_train, y_train)
 

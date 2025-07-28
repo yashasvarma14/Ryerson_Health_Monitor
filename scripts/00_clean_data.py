@@ -1,10 +1,10 @@
 # 00_clean_data.py — clean raw invoices into a tidy format
-# --------------------------------------------------------
+
 import pandas as pd
 from pathlib import Path
 
 def run(cfg=None):
-    ROOT      = Path(__file__).resolve().parents[1]   # …/ryerson_customer_health
+    ROOT      = Path(__file__).resolve().parents[1]  
     DATA_DIR  = ROOT / "data"
     
     raw_csv   = DATA_DIR / "mock_invoices.csv"         # original monthly file
@@ -12,7 +12,7 @@ def run(cfg=None):
 
     df = pd.read_csv(raw_csv)
 
-    # Standardize column names: lowercase, snake_case
+    # Standardize column names
     df.columns = (df.columns
                     .str.strip()
                     .str.lower()

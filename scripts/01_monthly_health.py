@@ -17,7 +17,7 @@ def run(cfg=None):
     # Load cleaned invoice data
     invoices = pd.read_csv(data_file, parse_dates=["date"])
 
-    # 1 – Monthly totals
+    # 1 - Monthly totals
     monthly = (
         invoices.groupby(["account_name", invoices["date"].dt.to_period("M")])
         .agg(tons=("shipped_weight", "sum"),
@@ -28,7 +28,7 @@ def run(cfg=None):
     monthly["month"] = monthly["month"].dt.to_timestamp()
     monthly = monthly.sort_values(["account_name", "month"])
 
-    # 2 – Rolling 6-month averages and gaps
+    # 2 - Rolling 6-month averages and gaps
     def rolling_avg(series, window=6):
         return series.rolling(window, min_periods=1).mean()
 
@@ -37,7 +37,7 @@ def run(cfg=None):
     monthly["gap_days"]    = monthly.groupby("account_name")["month"].diff().dt.days.fillna(0)
     monthly["median_gap"]  = monthly.groupby("account_name")["gap_days"].transform("median")
 
-    # 3 – Assign tiers
+    # 3 - Assign tiers
     TIER_RULES = {
         "Black":  {"drop": 0.50, "gap": 9.0},
         "Red":    {"drop": 0.70, "gap": 3.0},
@@ -72,7 +72,7 @@ def run(cfg=None):
     monthly["growth_tier"] = monthly.apply(assign_growth_tier, axis=1)
     monthly.loc[monthly["alert_tier"].notna(), "growth_tier"] = None
 
-    # 4 – Final health label
+    # 4 - Final health label
     HEALTH_ORDER = {"Black":0,"Red":1,"Yellow":2,"Blue":3,"Green":4,"Light-Green":5}
     mask = monthly[["alert_tier", "growth_tier"]].notna().any(axis=1)
 
@@ -84,7 +84,7 @@ def run(cfg=None):
         .drop(columns="tier_rank")
     )
 
-    # 5 – Cadence label
+    # 5 - Cadence 
     acct_stats = (
         invoices.groupby("account_name")
         .agg(n_invoices=("account_name", "count"),

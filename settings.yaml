@@ -1,7 +1,7 @@
 # Ryerson Health-Monitor – adjusting thresholds
 
 # 00_clean_data.py
-raw_csv:          data/mock_invoices.csv     # original file you get each month
+raw_csv:          data/mock_invoices.csv     # original file
 clean_csv:        data/invoices_clean.csv    # output of Step 00
 
 # 01_monthly_health.py
