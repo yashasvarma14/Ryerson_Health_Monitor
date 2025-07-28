@@ -1,14 +1,16 @@
-# Ignore outputs (Personal Ryerson data used)
-outputs/*.csv
-outputs/*.html
-
-# Ignore virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.ipynb_checkpoints/
 .env/
+.venv/
 env/
-
-# Jupyter checkpoint files
-**/.ipynb_checkpoints
-
-# System/IDE files
+ENV/
+venv/
+env.bak/
 .DS_Store
-.vscode/
+Thumbs.db
+*.log
+*.tmp
