@@ -37,14 +37,16 @@ def run(cfg=None):
     monthly["gap_days"]    = monthly.groupby("account_name")["month"].diff().dt.days.fillna(0)
     monthly["median_gap"]  = monthly.groupby("account_name")["gap_days"].transform("median")
 
-    # 3 - Assign tiers
+    # Load tier settings from cfg
+    tiers = cfg.get("tiers", {}) if cfg else {}
+
     TIER_RULES = {
-        "Black":  {"drop": 0.50, "gap": 9.0},
-        "Red":    {"drop": 0.70, "gap": 3.0},
-        "Yellow": {"drop": 0.85, "gap": 1.75},
-        "Blue":   {"rise": 1.35, "gap": -30},
-        "Green":  {"rise": 1.25, "gap": -20},
-        "Light-Green": {"rise": 1.10, "gap": -10}
+        "Black":  {"drop": tiers.get("black_drop", 0.5), "gap": tiers.get("black_gap", 9.0)},
+        "Red":    {"drop": tiers.get("red_drop", 0.7),   "gap": tiers.get("red_gap", 3.0)},
+        "Yellow": {"drop": tiers.get("yellow_drop", 0.85), "gap": tiers.get("yellow_gap", 1.75)},
+        "Blue":   {"rise": tiers.get("blue_rise", 1.35),  "gap": tiers.get("blue_gap", -30)},
+        "Green":  {"rise": tiers.get("green_rise", 1.25), "gap": tiers.get("green_gap", -20)},
+        "Light-Green": {"rise": tiers.get("light_rise", 1.10), "gap": tiers.get("light_gap", -10)},
     }
 
     def safe_div(n, d):

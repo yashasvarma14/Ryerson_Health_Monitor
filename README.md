@@ -6,7 +6,7 @@
 
 A data-driven dashboard built during my Sales Analytics internship at Ryerson Metals to track and visualize customer health trends using Python, Plotly, and simple machine learning. Designed to be non-technical rep-friendly, actionable, and installable anywhere with just a CSV upload.
 
-⚠️ This version uses mock data for privacy. The actual version was developed using real Ryerson invoice data and delivered to their internal team.
+*This version has the mock data option for privacy reasons. The actual version was developed using real Ryerson invoice data and delivered to their internal team.
 
 ## Who I built this for
 
@@ -50,19 +50,6 @@ All in just a few clicks.
 - Scikit-learn - basic logistic regression for decline prediction
 - YAML - makes thresholds editable for future users
 - VS Code & GitHub - full version control and portability
-
----
-
-## Example use case
-
-Imagine a rep opens the dashboard and selects “ABCD Steel LLC” from the dropdown. They instantly see:
-
-- A drop in shipped tons over the last 3 months
-- A growing gap in order frequency
-- Tier flagged as “Red” and a note saying:  
-  “Quiet & sales off pace • last order 66 d (typ 21 d) • Sales ⬇︎55% vs base”
-
-This rep can now call the customer with context before their health gets worse.
 
 ---
 
