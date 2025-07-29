@@ -1,16 +1,9 @@
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.so
-.ipynb_checkpoints/
-.env/
-.venv/
 env/
-ENV/
-venv/
-env.bak/
+.venv/
 .DS_Store
-Thumbs.db
-*.log
-*.tmp
+__pycache__/
+*.pyc
+
+# Ignore these (already uploaded)
+data/
+outputs/
