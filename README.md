@@ -66,9 +66,16 @@ This rep can now call the customer with context before their health gets worse.
 
 ---
 
-## How to run it yourself
+## How to Use (2 Ways)
 
+### Option 1: Use it online (No coding/install)  
+Go to the hosted app and either:
 
+- Upload your invoice CSV  
+- Or click “Run with Mock Data” to test with sample inputs
+- [Streamlit App Link](https://ryersonhealthmonitor.streamlit.app/)
+
+### Option 2: Run Locally
 
 1. Clone this repo
    Or download it manually from GitHub and open it in VS Code
