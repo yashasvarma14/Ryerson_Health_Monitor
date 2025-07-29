@@ -6,6 +6,7 @@ import shutil
 import yaml
 import importlib.util
 import sys
+import io
 
 st.set_page_config(page_title="Ryerson Customer Health Monitor", layout="centered")
 
@@ -13,22 +14,28 @@ st.title("Ryerson Customer Health Monitor")
 st.markdown("Upload your latest `dallas_invoices.csv` file below and we’ll process it end-to-end.")
 
 uploaded_file = st.file_uploader("Upload your invoice CSV", type=["csv"])
-cfg = {"uploaded_file": uploaded_file} if uploaded_file else {}
+cfg = {}
 
 if uploaded_file:
+    # Save it to disk
     data_path = Path("data/dallas_invoices.csv")
     with open(data_path, "wb") as f:
         f.write(uploaded_file.read())
 
+    # Rewind file stream and load into memory for processing
+    uploaded_file.seek(0)
+    csv_memory_file = io.StringIO(uploaded_file.getvalue().decode("utf-8"))
+
     st.success("File uploaded successfully!")
 
-    # Load settings
+    # Load config
     with open("settings.yaml") as f:
         cfg = yaml.safe_load(f)
-        
-    cfg["raw_csv"] = str(data_path)
 
-    # Run all scripts
+    # Pass uploaded file into cfg
+    cfg["uploaded_file"] = csv_memory_file
+
+    # Run scripts
     scripts = [
         "scripts/00_clean_data.py",
         "scripts/01_monthly_health.py",
@@ -38,22 +45,21 @@ if uploaded_file:
     ]
 
     for path in scripts:
-        st.write(f"Running {path.split('/')[-1]} ...")
-        path_obj = Path(path)
-        name = path_obj.stem
-        spec = importlib.util.spec_from_file_location(name, path_obj)
+        st.write(f"Running {Path(path).name} ...")
+        spec = importlib.util.spec_from_file_location(Path(path).stem, path)
         module = importlib.util.module_from_spec(spec)
-        sys.modules[name] = module
+        sys.modules[Path(path).stem] = module
         spec.loader.exec_module(module)
         if hasattr(module, "run"):
             module.run(cfg)
         else:
-            st.warning(f"{name} has no run() function")
+            st.warning(f"{path} has no run() function")
 
-    # Show download links
+    # Download links
     st.markdown("### Done! Download Your Outputs Below:")
+
     for file in Path("outputs").glob("*.csv"):
         st.download_button(f"Download {file.name}", file.read_bytes(), file.name)
 
     for file in Path("outputs").glob("*.html"):
-        st.download_button(f"Download {file.name}", file.read_bytes(), file.name) 
+        st.download_button(f"Download {file.name}", file.read_bytes(), file.name)
