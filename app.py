@@ -12,7 +12,8 @@ st.set_page_config(page_title="Ryerson Customer Health Monitor", layout="centere
 st.title("Ryerson Customer Health Monitor")
 st.markdown("Upload your latest `dallas_invoices.csv` file below and we’ll process it end-to-end.")
 
-uploaded_file = st.file_uploader("Upload Dallas Invoices CSV", type="csv")
+uploaded_file = st.file_uploader("Upload your invoice CSV", type=["csv"])
+cfg = {"uploaded_file": uploaded_file} if uploaded_file else {}
 
 if uploaded_file:
     data_path = Path("data/dallas_invoices.csv")
@@ -55,4 +56,4 @@ if uploaded_file:
         st.download_button(f"Download {file.name}", file.read_bytes(), file.name)
 
     for file in Path("outputs").glob("*.html"):
-        st.download_button(f"Download {file.name}", file.read_bytes(), file.name)
+        st.download_button(f"Download {file.name}", file.read_bytes(), file.name) 
