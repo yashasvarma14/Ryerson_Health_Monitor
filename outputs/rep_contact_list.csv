@@ -1,6 +1,6 @@
 account_name,tier_label,gap_days,sales_vs_baseline_%,prob_decline,rep_message
-Calico Corp,Red,31.0,-34.94598417439795,0.6986004793148302,Predicted decline (ML) • Last order 31d (typ 31d) • Sales ⬇︎35% vs. norm
-Lunar Metals,Red,30.0,-33.12642976948157,0.6168571839117303,Predicted decline (ML) • Last order 30d (typ 31d) • Sales ⬇︎33% vs. norm
-HighPoint Industrial,Yellow,31.0,-22.253882431389947,0.7647814157723186,Predicted decline (ML) • Last order 31d (typ 31d) • Sales ⬇︎22% vs. norm
-Quantum Steels,Yellow,29.0,-17.928880866223484,0.8512585611711001,Predicted decline (ML) • Last order 29d (typ 31d) • Sales ⬇︎18% vs. norm
-Titanium Inc,Yellow,31.0,-17.12872346533465,0.8886073058425591,Predicted decline (ML) • Last order 31d (typ 31d) • Sales ⬇︎17% vs. norm
+Calico Corp,Red,31.0,-34.94598417439795,0.698600479314824,Predicted decline (ML) • Last order 31d (typ 31d) • Sales ⬇︎35% vs. norm
+Lunar Metals,Red,30.0,-33.12642976948157,0.6168571839117326,Predicted decline (ML) • Last order 30d (typ 31d) • Sales ⬇︎33% vs. norm
+HighPoint Industrial,Yellow,31.0,-22.253882431389947,0.7647814157723287,Predicted decline (ML) • Last order 31d (typ 31d) • Sales ⬇︎22% vs. norm
+Quantum Steels,Yellow,29.0,-17.928880866223484,0.8512585611711154,Predicted decline (ML) • Last order 29d (typ 31d) • Sales ⬇︎18% vs. norm
+Titanium Inc,Yellow,31.0,-17.12872346533465,0.8886073058425662,Predicted decline (ML) • Last order 31d (typ 31d) • Sales ⬇︎17% vs. norm

@@ -4,13 +4,13 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
-A data-driven dashboard built during my Sales Analytics internship at Ryerson Metals to track and visualize customer health trends — using Python, Plotly, and simple machine learning. Designed to be non-technical rep-friendly, actionable, and installable anywhere with just a CSV upload.
+A data-driven dashboard built during my Sales Analytics internship at Ryerson Metals to track and visualize customer health trends using Python, Plotly, and simple machine learning. Designed to be non-technical rep-friendly, actionable, and installable anywhere with just a CSV upload.
 
 ⚠️ This version uses mock data for privacy. The actual version was developed using real Ryerson invoice data and delivered to their internal team.
 
 ## Who I built this for
 
-Ryerson's inside sales reps are incredibly busy. They juggle dozens of accounts and don’t always have a clear view of which customers are quietly pulling back — or which ones are rapidly growing.
+Ryerson's inside sales reps are incredibly busy. They juggle dozens of accounts and don’t always have a clear view of which customers are quietly pulling back or which ones are rapidly growing.
 
 I built this tool to give them that visibility.
 
@@ -24,7 +24,7 @@ This monitor lets any rep:
 - Understand changes in sales, shipped tons, and customer ordering cadence
 - Export a simple list of which customers to follow up with and why
 
-All in just a few clicks — no coding needed for the reps.
+All in just a few clicks.
 
 
 ## What's under the hood
@@ -44,12 +44,12 @@ All in just a few clicks — no coding needed for the reps.
 
 ## Technologies Used
 
-- Python – all logic, analysis, and output
-- Pandas – data wrangling
-- Plotly – interactive dashboards (HTML, no server needed)
-- Scikit-learn – basic logistic regression for decline prediction
-- YAML – makes thresholds editable for future users
-- VS Code & GitHub – full version control and portability
+- Python - all logic, analysis, and output
+- Pandas - data wrangling
+- Plotly - interactive dashboards (HTML, no server needed)
+- Scikit-learn - basic logistic regression for decline prediction
+- YAML - makes thresholds editable for future users
+- VS Code & GitHub - full version control and portability
 
 ---
 
@@ -62,7 +62,7 @@ Imagine a rep opens the dashboard and selects “ABCD Steel LLC” from the drop
 - Tier flagged as “Red” and a note saying:  
   “Quiet & sales off pace • last order 66 d (typ 21 d) • Sales ⬇︎55% vs base”
 
-This rep can now call the customer with context — before their health gets worse.
+This rep can now call the customer with context before their health gets worse.
 
 ---
 
@@ -77,7 +77,7 @@ This rep can now call the customer with context — before their health gets wor
 3. Adjust rules in `settings.yaml`  
    Want some tier to trigger at a custom % instead of the default? Do that here.
 
-4. Run the main script!
+4. Run the main script.
 
 5. Open the outputs/ folder to view:
     Final health scores
