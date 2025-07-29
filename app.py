@@ -11,7 +11,7 @@ import io
 st.set_page_config(page_title="Ryerson Customer Health Monitor", layout="centered")
 
 st.title("Ryerson Customer Health Monitor")
-st.markdown("Upload your latest `dallas_invoices.csv` file below and we’ll process it end-to-end.")
+st.markdown("Upload your latest Sales/Invoices csv file below and we’ll process it end-to-end.")
 
 uploaded_file = st.file_uploader("Upload your invoice CSV", type=["csv"])
 cfg = {}
