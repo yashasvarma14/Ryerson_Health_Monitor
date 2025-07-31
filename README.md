@@ -4,6 +4,8 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
+[Streamlit App Link](https://ryersonhealthmonitor.streamlit.app/)
+
 A data-driven dashboard built during my Sales Analytics internship at Ryerson Metals to track and visualize customer health trends using Python, Plotly, and simple machine learning. Designed to be non-technical rep-friendly, actionable, and installable anywhere with just a CSV upload.
 
 *This version has the mock data option for privacy reasons. The actual version was developed using real Ryerson invoice data and delivered to their internal team.
