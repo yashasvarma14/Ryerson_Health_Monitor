@@ -6,13 +6,13 @@
 
 [Ryerson Monitor Streamlit App](https://ryersonhealthmonitor.streamlit.app/)
 
-A data-driven dashboard built during my Sales Analytics internship at Ryerson Metals to track and visualize customer health trends using Python, Plotly, and simple machine learning. Designed to be non-technical rep-friendly, actionable, and installable anywhere with just a CSV upload.
+A data-driven dashboard built during my Sales Analytics internship at Ryerson Metals to track and visualize customer health trends using Python, Plotly, and simple machine learning. Designed to be non-technical rep-friendly, and installable anywhere with just a CSV upload.
 
 *This version has the mock data option for privacy reasons. The actual version was developed using real Ryerson invoice data and delivered to their internal team.
 
 ## Who I built this for
 
-Ryerson's inside sales reps are incredibly busy. They juggle dozens of accounts and don’t always have a clear view of which customers are quietly pulling back or which ones are rapidly growing.
+Ryerson's sales reps are incredibly busy. They juggle dozens of accounts and don’t always have a clear view of which customers are quietly pulling back or which ones are rapidly growing.
 
 I built this tool to give them that visibility.
 
