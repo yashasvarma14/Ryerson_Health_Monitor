@@ -93,4 +93,4 @@ Go to the hosted app and either:
     Lightweight ML
     Communication that helps
 
-    If you’d like to talk about data storytelling, analytics, or hiring me— feel free to connect.
+    If you’d like to talk about data storytelling or analytics— feel free to connect.
