@@ -26,8 +26,6 @@ This monitor lets any rep:
 - Understand changes in sales, shipped tons, and customer ordering cadence
 - Export a simple list of which customers to follow up with and why
 
-All in just a few clicks.
-
 
 ## What's under the hood
 
@@ -47,11 +45,11 @@ All in just a few clicks.
 ## Technologies Used
 
 - Python - all logic, analysis, and output
-- Pandas - data wrangling
-- Plotly - interactive dashboards (HTML, no server needed)
+- Pandas - data work
+- Plotly - interactive dashboards (using HTML)
 - Scikit-learn - basic logistic regression for decline prediction
 - YAML - makes thresholds editable for future users
-- VS Code & GitHub - full version control and portability
+- Streamlit App & GitHub - full version control and portability
 
 ---
 
