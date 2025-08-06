@@ -85,7 +85,6 @@ Go to the hosted app and either:
     Yashas Varma
     Sales Analytics Intern @ Ryerson Metals
     B.S. in Economics, Texas A&M University
-    Aspiring MSBA grad & technical storyteller
 
     This project taught me how to combine:
     Business intuition
