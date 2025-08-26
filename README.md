@@ -80,16 +80,3 @@ Go to the hosted app and either:
     Visual dashboards
     Rep call lists with custom messages
     ML predictions of future decline
-
-## About Me
-    Yashas Varma
-    Sales Analytics Intern @ Ryerson Metals
-    B.S. in Economics, Texas A&M University
-
-    This project taught me how to combine:
-    Business intuition
-    Analytics tools
-    Lightweight ML
-    Communication that helps
-
-    If you’d like to talk about data storytelling or analytics— feel free to connect.
